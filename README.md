@@ -1,4 +1,5 @@
 # Seja bem vindo a minha página no GitHub!
+###### [Histórico de Commits](https://github.com/delsschoolaccount/Apresentacao/commits/main)
 
 ## Sobre mim
 
@@ -23,3 +24,4 @@ Tenho o objetivo ambicioso de aprender mais de 10 linguagens de programação, f
 À medida que sigo minha jornada de aprendizado e crescimento na programação, espero não apenas alcançar meus objetivos, mas também inspirar outros a seguir seus sonhos e se aventurar na área da tecnologia. Com dedicação, paixão e uma visão clara do futuro, estou confiante de que vou realizar meus objetivos e contribuir para o mundo da programação de maneiras significativas.
 
 > Seja menos curioso sobre as pessoas e mais curioso sobre ideias.
+
