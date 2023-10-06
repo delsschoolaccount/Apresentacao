@@ -27,5 +27,6 @@ Tenho o objetivo ambicioso de aprender mais de 10 linguagens de programação, f
 
 ## Diversos
 
-[![Estatisticas de Del no GitHub](https://github-readme-stats.vercel.app/api?username=delsschoolaccount)](https://github.com/anuraghazra/github-readme-stats)
-[Siga Me!](https://img.shields.io/github/followers/delsschoolaccount?label=follow&style=social)
+![Estatisticas de Del no GitHub](https://github-readme-stats.vercel.app/api?username=delsschoolaccount&theme=transparent&show_icons=true)
+
+![](https://img.shields.io/github/followers/delsschoolaccount?label=follow&style=social)
