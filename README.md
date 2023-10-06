@@ -14,3 +14,11 @@ Me chamo Renan, e estou atualmente estudando sobre ![HTML5](https://img.shields.
 
 ## Frameworks Favoritas
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+## Mais sobre mim
+
+| Sonhos |
+| :----: |
+| Se tornar um desenvolvedor profissional |
+| Conseguir aprender mais de 7 linguas em programação |
+| Ir em um cruzeiro com minha familia |
